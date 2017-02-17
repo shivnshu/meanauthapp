@@ -1,5 +1,4 @@
-#MEAN Auth App
-_A short project using MEAN stack_
+#MEAN Stack based Auth App
 
 ##Directory Structure
 ```
@@ -11,7 +10,6 @@ _A short project using MEAN stack_
 │   └users.js
 ├── app.js
 └───package.json
-
 ```
 
 ##Requirements
