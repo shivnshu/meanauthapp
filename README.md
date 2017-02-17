@@ -3,13 +3,13 @@
 ##Directory Structure
 ```
 ├── config
-│   └ database.js
+│   └── database.js
 ├── models
-│   └user.js
+│   └── user.js
 ├── routes
-│   └users.js
+│   └── users.js
 ├── app.js
-└───package.json
+└── package.json
 ```
 
 ##Requirements
