@@ -1,18 +1,7 @@
 #MEAN Stack based Auth App
-
-##Directory Structure
-```
-├── config
-│   └── database.js
-├── models
-│   └── user.js
-├── routes
-│   └── users.js
-├── app.js
-└── package.json
-```
+_Template for a MEAN stack based application_
 
 ##Requirements
-* NodeJS
-* Angular2
-* MongoDB
+* [NodeJS](https://nodejs.org/)
+* [Angular2](https://angular.io/)
+* [MongoDB](https://www.mongodb.com/)
